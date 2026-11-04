@@ -1,0 +1,32 @@
+ALEX CHEN
+San Francisco, CA • alex.chen@example.com • linkedin.com/in/alexchen-dev • github.com/alexchen
+
+PROFESSIONAL SUMMARY
+Results-driven Full Stack Engineer with 4 years of experience building scalable web architectures, reactive client dashboards, and resilient microservices. Proven expertise in React, TypeScript, Node.js, and SQL databases with a track record of driving system performance gains and reliable deployments.
+
+TECHNICAL SKILLS
+- Languages: TypeScript, JavaScript (ES6+), Python, SQL, HTML5/CSS3
+- Frontend: React, Redux Toolkit, Vite, Tailwind CSS, WebSockets, Next.js
+- Backend: Node.js, Express, REST APIs, GraphQL, PostgreSQL, Redis, Jest
+- Infrastructure & Tools: Docker, Git, CI/CD (GitHub Actions), AWS (S3, EC2, CloudWatch)
+
+PROFESSIONAL EXPERIENCE
+
+Full Stack Software Engineer | CloudVantage Labs
+June 2022 – Present | San Francisco, CA
+- Spearheaded the redesign of the core analytics dashboard using React 18 and TypeScript, reducing initial load time by 38% and memory consumption by 24%.
+- Developed high-throughput REST APIs and WebSocket notification services in Node.js/Express, handling over 1.2M daily events with 99.95% uptime.
+- Integrated Redis caching layers for heavy aggregation queries, reducing average database response times from 420ms to 65ms.
+- Collaborated with product and security teams to implement JWT-based RBAC, token rotation, and automated audit logging.
+- Championed automated unit and integration testing pipelines with Jest and Supertest, expanding test coverage from 52% to 84%.
+
+Software Engineer | NovaSphere Technologies
+July 2020 – May 2022 | San Jose, CA
+- Built customer-facing features for an enterprise resource management platform using React and PostgreSQL.
+- Authored database migrations, optimized indexing on high-traffic tables, and diagnosed deadlocks during transaction spikes.
+- Participated in bi-weekly on-call rotations, responding to P1/P2 production incidents and authoring root-cause analysis (RCA) reports.
+
+EDUCATION & CERTIFICATIONS
+B.S. in Computer Science | University of California, Davis
+AWS Certified Solutions Architect – Associate
+

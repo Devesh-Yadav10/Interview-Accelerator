@@ -1,0 +1,20 @@
+# Senior Full Stack Engineer (React, Node.js, Distributed Systems)
+
+## About the Role
+We are seeking an exceptional Senior Full Stack Engineer to lead the architectural evolution of our high-volume real-time collaboration and analytics platform. In this role, you will design robust web services, optimize stateful UI applications, and ensure our distributed cloud infrastructure scales to millions of concurrent operations.
+
+## Key Responsibilities
+- Architect, implement, and maintain low-latency frontend applications using React, TypeScript, and modern state management.
+- Design and scale distributed backend microservices utilizing Node.js, Express, PostgreSQL, and Redis caching.
+- Build clean, backwards-compatible RESTful and GraphQL APIs with strict schema validation and security controls.
+- Partner with product managers and UX designers to transform ambiguous business requirements into resilient technical solutions.
+- Own reliability, observability, and incident mitigation across our cloud deployment pipelines (Docker, Kubernetes, AWS).
+- Mentor engineers, establish engineering standards, and conduct rigorous code and architecture reviews.
+
+## Requirements
+- 4+ years of professional software engineering experience building production web applications.
+- Strong proficiency in modern JavaScript/TypeScript, React, Node.js, and relational databases (PostgreSQL/MySQL).
+- Proven hands-on experience with asynchronous programming, caching strategies, and distributed database consistency.
+- Demonstrated ability to debug complex production regressions, profile database queries, and reduce p99 latency.
+- Excellent communication skills, autonomous ownership, and bias for action in fast-paced environments.
+
